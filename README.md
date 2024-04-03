@@ -1,1 +1,1 @@
-# NER_model_build
+# Named Entitty Recognition model
