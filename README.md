@@ -1,1 +1,1 @@
-# Named Entitty Recognition model
+# Named Entity Recognition model
